@@ -1,0 +1,11 @@
+{
+  "name": "anti-ia",
+  "description": "Skills pour que Claude fasse des sites qui ne sentent pas l'IA : textes humains, design non générique, microcopy, typo française, voix de marque et audit.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Ȥrk",
+    "url": "https://zrk.lol"
+  },
+  "homepage": "https://github.com/zrk-lol/claude-skills-anti-ia",
+  "license": "MIT"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "zrk",
+  "owner": {
+    "name": "Ȥrk",
+    "url": "https://zrk.lol"
+  },
+  "plugins": [
+    {
+      "name": "anti-ia",
+      "source": "./",
+      "description": "Des sites qui ne sentent pas l'IA : textes, design, microcopy, typo française, voix de marque, audit."
+    }
+  ]
+}
