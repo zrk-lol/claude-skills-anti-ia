@@ -72,8 +72,8 @@ Tu as repéré un nouveau tic d'IA ? Ouvre une issue ou une PR avec un exemple r
 
 <br/>
 
-Fait par **[Ȥrk](https://github.com/zrk-lol)** · [zrk.lol](https://zrk.lol) · [Discord](https://discord.gg/4qRhB4c5me)
+Fait par **[Ȥrk](https://github.com/zrk-lol)** · [varhex.com](https://varhex.com) · [Discord](https://discord.gg/4qRhB4c5me)
 
-Tu veux un site qui ne sent pas l'IA, fait par un humain ? [Parlons-en](https://zrk.lol).
+Tu veux un site qui ne sent pas l'IA, fait par un humain ? [Parlons-en](https://varhex.com).
 
 </div>
