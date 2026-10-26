@@ -1,7 +1,7 @@
 {
   "name": "anti-ia",
-  "description": "Skills pour que Claude fasse des sites qui ne sentent pas l'IA : textes humains, design non générique, microcopy, typo française, voix de marque et audit.",
-  "version": "1.0.0",
+  "description": "Skills pour que Claude fasse des sites qui ne sentent pas l'IA : textes humains, design non générique, microcopy, typo française, voix de marque, landing page, visuels, SEO et audit.",
+  "version": "1.1.0",
   "author": {
     "name": "Ȥrk",
     "url": "https://varhex.com"

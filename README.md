@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/skills-6-FF1E1E?style=for-the-badge&labelColor=0a0a0c" />
+<img src="https://img.shields.io/badge/skills-9-FF1E1E?style=for-the-badge&labelColor=0a0a0c" />
 <img src="https://img.shields.io/badge/Claude_Code-plugin-FF1E1E?style=for-the-badge&labelColor=0a0a0c" />
 <img src="https://img.shields.io/badge/langue-français-FF1E1E?style=for-the-badge&labelColor=0a0a0c" />
 <img src="https://img.shields.io/badge/licence-MIT-9A9AA4?style=for-the-badge&labelColor=0a0a0c" />
@@ -11,7 +11,7 @@
 
 Quand tu demandes un site à une IA, tu obtiens souvent la même chose : un dégradé violet, « Libérez votre potentiel », trois cartes avec une fusée, un éclair et un bouclier. Les visiteurs le repèrent tout de suite, et ça ne donne pas confiance.
 
-Ces 6 skills apprennent à Claude à faire autrement. Ils se déclenchent tout seuls quand il écrit des textes ou code une page.
+Ces 9 skills apprennent à Claude à faire autrement. Ils se déclenchent tout seuls quand il écrit des textes ou code une page.
 
 ## 📦 Les skills
 
@@ -23,6 +23,13 @@ Ces 6 skills apprennent à Claude à faire autrement. Ils se déclenchent tout s
 | 🇫🇷 [`typo-francaise`](skills/typo-francaise/SKILL.md) | Espaces insécables, « guillemets », majuscules accentuées, nombres et dates à la française. |
 | 🗣️ [`voix-de-marque`](skills/voix-de-marque/SKILL.md) | Analyse tes vrais messages et écrit un guide `VOIX.md` pour que les textes sonnent comme toi. |
 | 🔍 [`audit-site-ia`](skills/audit-site-ia/SKILL.md) | Note ton site sur 30 et liste les 5 corrections qui changent le plus. |
+| 🚀 [`landing-page-humaine`](skills/landing-page-humaine/SKILL.md) | Une landing page qui répond à une seule question, dans le bon ordre, sans sections inutiles. |
+| 🖼️ [`visuels-pas-ia`](skills/visuels-pas-ia/SKILL.md) | Photos, captures et icônes qui montrent du vrai, et des prompts d'image qui évitent les clichés. |
+| 🔎 [`seo-sans-blabla`](skills/seo-sans-blabla/SKILL.md) | Des pages qui se classent sur Google sans intro qui tourne en rond ni mots-clés répétés. |
+
+## 🧩 Bonus : 10 prompts landing page
+
+Artisan, SaaS, restaurant, coach, app mobile, freelance, événement, produit, bot Discord, liste d'attente : **[voir les 10 prompts →](landing-prompts/README.md)**
 
 ## 🚀 Installation
 
